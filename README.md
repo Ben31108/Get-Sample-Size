@@ -1,6 +1,12 @@
-# Get-Sample-Size
+# Sample Size Calculator
 
-This program estimates the sample size required when conducting a market survey or poll.
-The confidence interval and margin of error are required, as wel as an estimate of the expected proportion of responses, a default of 50$ is provided, though any proportion below 50% can be used.
+This project provides a Python-based solution for calculating required sample sizes in surveys and marketing experiments.
 
-The program uses a GUI created from tkinter for inputting the above metrics. It was originally written using the Sublime text editor and has run on Jupyter notebooks. Iin its present form it does not run in GitHub or Google Colab. The screenshot shows sample output from the prgram.
+It is particularly useful for designing statistically valid campaigns and ensuring measurable outcomes.
+
+Key Features:
+• Sample size estimation for proportions
+• Practical application in campaign design and survey research
+• Supports decision-making for experimental design
+
+Tools: Pytho
